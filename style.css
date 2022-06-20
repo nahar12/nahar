@@ -1,0 +1,85 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.container{
+    width: 50%;
+    margin: 4em auto;
+    background-color: black;
+    text-align: center;
+    color:#fff;
+
+}
+ h1{
+    font-size: 55px;
+    font-family: arial;
+    padding: 20px;
+}
+input,
+label{
+display: block;
+}
+input{
+    margin: 10px auto;
+    border-radius: 30px;
+    padding: 18px 5em;
+}
+label{
+    font-size: 20px;
+    margin-top: 10px;
+}
+input[type="submit"]{
+    padding: 12px 40px;
+    margin-top: 30px;
+    font-size: 15px;
+    cursor: pointer;
+    margin-bottom: 25px;
+}
+.nahar{
+    margin: 25px 0px;
+    font-size: 22px;
+}
+.nahar a{
+    color: hsl(0, 11%, 95%);
+    text-decoration: none;
+}
+p{
+    margin: 10px 0px 18px 0px;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+    color: rgb(250, 240, 240);
+    font-size: 20px;
+}
+.nahar-2{
+    border-radius: 30px;
+    margin-bottom: 20px;
+    border: none ;
+    padding: 10px 12px ;
+}
+.nahar-2 a{
+    color: #000;
+}
+.nahar-1{
+    padding: 4px 0px 18px 0px;
+    
+}
+.abc{
+    margin-bottom: -26px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
